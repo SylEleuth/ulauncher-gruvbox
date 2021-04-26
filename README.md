@@ -1,6 +1,6 @@
 # Gruvbox for Ulauncher
 
-A theme for Ulauncher based on the gruvbox color scheme
+A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the gruvbox color scheme
 
 https://github.com/morhetz/gruvbox
 
