@@ -1,16 +1,15 @@
-# Gruvbox for Ulauncher
+# Gruvbox Material for Ulauncher
 
-A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the gruvbox color scheme
+A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) color scheme and the [Ulaucher Gruvbox theme](https://github.com/SylEleuth/ulauncher-gruvbox).
 
-https://github.com/morhetz/gruvbox
-
-
-![Screenshot_20210406_164130](https://user-images.githubusercontent.com/33354262/113740797-eef4ab80-96f8-11eb-880f-0d0d8353467d.png)
-
+![ulauncher_gruvbox_material](https://user-images.githubusercontent.com/57065994/153770368-3fe87554-c40a-48f3-bbb6-3fbc95001218.png)
 
 ## Installation
 
-1. ```mkdir -p ~/.config/ulauncher/user-themes```
-2. ```git clone https://github.com/SylEleuth/ulauncher-gruvbox ~/.config/ulauncher/user-themes/gruvbox-ulauncher```
+1 - Ensure that you have the user theme directory `mkdir -p ~/.config/ulauncher/user-themes`
 
-Or just download repository, unpack, copy to ```~/.config/ulauncher/user-themes``` and rename folder to ```gruvbox-ulauncher```.
+2 - Move to the user theme directory `cd ~/.config/ulauncher/user-themes`
+
+3 - Clone the theme `git clone git@github.com:gustavothecoder/ulauncher-gruvbox-material.git`
+
+4 - Open Ulauncher Preferences and select the theme
