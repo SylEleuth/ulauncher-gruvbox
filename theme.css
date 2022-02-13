@@ -1,13 +1,13 @@
 
 /**
- * Dracula colors
+ * Gruvbox Material palette
  */
 @define-color background #282828;
-@define-color current_line_background #3C3836;
-@define-color foreground #EBDBB2;
-@define-color foreground_lessimportant #A89984;
-@define-color accent #FE8019;
-@define-color highlight #FE8019;
+@define-color current_line_background #32302f;
+@define-color foreground #d4be98;
+@define-color foreground_lessimportant #ddc7a1;
+@define-color accent #e78a4e;
+@define-color highlight #e78a4e;
 
 /**
  * App Window
@@ -16,7 +16,7 @@
  @define-color window_bg @background;
  @define-color window_border_color darker(@background);
  @define-color prefs_backgroud @foreground;
- 
+
  /**
   * Input
   */
@@ -24,7 +24,7 @@
  @define-color selected_fg_color @background;
  @define-color input_color @foreground;
  @define-color caret_color @foreground;
- 
+
  /**
   * Result items
   */
@@ -37,16 +37,16 @@
  @define-color item_shortcut_shadow darker(@background);
  @define-color item_shortcut_color_sel @highlight;
  @define-color item_shortcut_shadow_sel darker(@item_box_selected);
- 
+
  .app {
      background-color: @window_bg;
      border-color: @window_border_color;
  }
- 
+
  .input {
      color: @input_color;
  }
- 
+
  /**
   * Selected text in input
   */
@@ -56,14 +56,14 @@
      background-color: alpha (@selected_bg_color, 0.9);
      color: @selected_fg_color;
  }
- 
+
  .item-text {
      color: @item_text;
  }
  .item-name {
      color: @item_name;
  }
- 
+
  .selected.item-box {
      background-color: @item_box_selected;
      border-left: 1px solid @window_border_color;
@@ -83,7 +83,7 @@
      color: @item_shortcut_color_sel;
      text-shadow: 1px 1px 1px @item_shortcut_shadow_sel;
  }
- 
+
  .prefs-btn {
      opacity: 0.8;
  }
