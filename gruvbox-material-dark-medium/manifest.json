@@ -1,7 +1,7 @@
 {
     "manifest_version": "1",
-    "name": "gruvbox-material",
-    "display_name": "Gruvbox Material",
+    "name": "gruvbox-material-dark-medium",
+    "display_name": "Gruvbox Material Dark Medium",
     "extend_theme": "dark",
     "css_file": "theme.css",
     "css_file_gtk_3.20+": "theme-gtk-3.20.css",
