@@ -8,6 +8,9 @@ A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the [Gr
 ## Dark Medium
 ![ulauncher_gruvbox_material](https://user-images.githubusercontent.com/57065994/153770368-3fe87554-c40a-48f3-bbb6-3fbc95001218.png)
 
+## Dark Hard
+![dark_hard](https://user-images.githubusercontent.com/57065994/161388754-e1025ed9-8b53-4464-b05c-dca4995fae11.png)
+
 ## Installation
 
 1 - Ensure that you have the user theme directory: `mkdir -p ~/.config/ulauncher/user-themes`
@@ -16,6 +19,6 @@ A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the [Gr
 
 3 - Enter in the themes folder: `cd ulauncher-gruvbox-material`
 
-4 - Copy the desired themes to the `user-themes` folder: `cp -rt ~/.config/ulauncher/user-themes/ ./gruvbox-material-dark-soft ./gruvbox-material-dark-medium/`
+4 - Copy the desired themes to the `user-themes` folder: `cp -rt ~/.config/ulauncher/user-themes/ ./gruvbox-material-dark-soft/ ./gruvbox-material-dark-medium/ ./gruvbox-material-dark-hard/`
 
 5 - Open Ulauncher Preferences and select the theme
