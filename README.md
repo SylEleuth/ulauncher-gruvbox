@@ -15,7 +15,7 @@ A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the [Gr
 
 1 - Ensure that you have the user theme directory: `mkdir -p ~/.config/ulauncher/user-themes`
 
-2 - Clone the themes: `git clone git@github.com:gustavothecoder/ulauncher-gruvbox-material.git`
+2 - Clone the themes: `git clone https://github.com/gustavothecoder/ulauncher-gruvbox-material.git`
 
 3 - Enter in the themes folder: `cd ulauncher-gruvbox-material`
 
